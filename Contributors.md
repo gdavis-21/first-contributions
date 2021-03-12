@@ -9937,7 +9937,7 @@
 - EnlightenmentS
 - [Shani Cunningham](https://github.com/shanicunn)
 - [Carlos Lira](http://github.com/carloscerlira)
-- [Grant Davis] 
+- [Grant Davis](https://github.com/gdavis-21)
 - [Bryan Ho](https://github.com/bryanccho)
 - [Abhishek Anand :smile:](https://www.linkedin.com/in/abhishek-anand-a3446a196/)
 - [Bhanuprakash :smile::smile:](https://www.linkedin.com/in/bhanu-prakash-617757206/)
